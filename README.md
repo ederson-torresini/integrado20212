@@ -4,4 +4,4 @@ Projeto de desenvolvimento de jogo Web com WebRTC para as disciplinas de Adminis
 
 ## Para ler
 
-Publicado no GitHub Pages: [https://boidacarapreta.github.io/arc20212](https://boidacarapreta.github.io/arc20212).
+Publicado no GitHub Pages: [https://boidacarapreta.github.io/arc20212](https://boidacarapreta.github.io/integrado20212).
