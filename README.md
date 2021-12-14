@@ -34,3 +34,9 @@ Publicado no GitHub Pages: [https://boidacarapreta.github.io/integrado20212](htt
 - [Itchio: Top Games made with Phaser](https://itch.io/games/made-with-phaser): coletânea de jogos feitos com Phaser 3 na plataforma de jogos _indie_.
 - [ChooseYourStory.com](https://chooseyourstory.com/): jogos baseados em texto.
 - [Game with Remote Controlled Robots over Internet](https://www.kickstarter.com/projects/remotegames/game-with-remote-controlled-robots-over-internet): controle remoto de robôs na maquete da cidade de Prypiat.
+
+## Equipes
+
+- [Ayrton e Talita](https://github.com/ayrtonetalita/): [jogo](https://github.com/ayrtonetalita/jogo)
+- [Bárbara e Beatriz](https://github.com/beaba0203/): [jogunho](https://github.com/beaba0203/joguinho)
+- [Leonardo e Pyetra](https://github.com/into-the-thick-of-it/): [jogo](https://github.com/into-the-thick-of-it/jogo)
