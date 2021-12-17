@@ -14,3 +14,15 @@ Primeiros experimentos com o formato [Chapbook](https://klembot.github.io/chapbo
 ### Changed
  
 ### Fixed
+
+## [Unreleased] - 2021-12-17
+ 
+Primeira ramificação da história, com implicações para a história e conteúdo das duas disciplinas.
+ 
+### Added
+
+- Apostila: primeiro rascunho das etapas 3 e 4 da Jornada do Herói.
+ 
+### Changed
+ 
+### Fixed
