@@ -37,6 +37,7 @@ Publicado no GitHub Pages: [https://boidacarapreta.github.io/integrado20212](htt
 
 ## Equipes
 
+- [Ana e Francine](https://github.com/anaefrancinox/): [jogo](https://github.com/anaefrancinox/jogo)
 - [Ayrton e Talita](https://github.com/ayrtonetalita/): [jogo](https://github.com/ayrtonetalita/jogo)
 - [Bárbara e Beatriz](https://github.com/beaba0203/): [joguinho](https://github.com/beaba0203/joguinho)
 - [Julia e Ramon](https://github.com/ramolia/): [Monju-](https://github.com/ramolia/Monju-)
