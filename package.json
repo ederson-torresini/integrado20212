@@ -1,0 +1,24 @@
+{
+  "name": "integrado20212",
+  "version": "1.0.0",
+  "description": "Projeto de desenvolvimento de jogo Web com WebRTC para as disciplinas de Administração de Redes de Computadores e Telefonia IP do Curso Integrado ao Médio de Telecomunicações do Instituto Federal de Santa Catarina câmpus São José",
+  "main": "servidor.js",
+  "scripts": {
+    "start": "node servidor.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/boidacarapreta/integrado20212.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/boidacarapreta/integrado20212/issues"
+  },
+  "homepage": "https://github.com/boidacarapreta/integrado20212#readme",
+  "dependencies": {
+    "express": "^4.17.2",
+    "socket.io": "^4.4.1"
+  }
+}
