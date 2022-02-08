@@ -40,6 +40,7 @@ Publicado no GitHub Pages: [https://boidacarapreta.github.io/integrado20212](htt
 - [Ana e Francine](https://github.com/anaefrancinox/): [jogo](https://github.com/anaefrancinox/jogo)
 - [Ayrton e Talita](https://github.com/ayrtonetalita/): [jogo](https://github.com/ayrtonetalita/jogo)
 - [Bárbara e Beatriz](https://github.com/beabagames/): [letters-to-johnson](https://github.com/beabagames/letters-to-johnson)
+- [João e Marina](https://github.com/silvmarina/): [starter-template-basic-javascript](https://github.com/silvmarina/starter-template-basic-javascript)
 - [Julia e Ramon](https://github.com/ramolia/): [Monju-](https://github.com/ramolia/Monju-)
 - [Leonardo e Pyetra](https://github.com/into-the-thick-of-it/): [jogo](https://github.com/into-the-thick-of-it/jogo)
 - [Nicolas e Raquel](https://github.com/niiquel/): [jogo](https://github.com/niiquel/jogo/)
