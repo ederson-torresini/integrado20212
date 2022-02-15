@@ -37,10 +37,10 @@ Publicado no GitHub Pages: [https://boidacarapreta.github.io/integrado20212](htt
 
 ## Equipes
 
-- [Amanda e Nathalia](https://github.com/brutaerustica/): [jogo](https://github.com/brutaerustica/jogo/)
 - [Ana e Francine](https://github.com/anaefrancinox/): [jogo](https://github.com/anaefrancinox/jogo)
 - [Ayrton e Talita](https://github.com/ayrtonetalita/): [jogo_neve](https://github.com/ayrtonetalita/jogo_neve)
 - [Bárbara e Beatriz](https://github.com/beabagames/): [letters-to-johnson](https://github.com/beabagames/letters-to-johnson)
+- [Elaine e Luana](https://github.com/brutaerustica/): [jogo](https://github.com/brutaerustica/jogo/)
 - [João e Marina](https://github.com/silvmarina/): [starter-template-basic-javascript](https://github.com/silvmarina/starter-template-basic-javascript)
 - [Julia e Ramon](https://github.com/ramolia/): [Monju-](https://github.com/ramolia/Monju-)
 - [Leonardo e Pyetra](https://github.com/into-the-thick-of-it/): [Synk-Diving-Adventure](https://github.com/into-the-thick-of-it/Synk-Diving-Adventure)
