@@ -37,7 +37,7 @@ Publicado no GitHub Pages: [https://boidacarapreta.github.io/integrado20212](htt
 
 ## Equipes
 
-- [Amanda e Nathalia](https://github.com/amandaenathalia/): [JOGO-ALPHA](https://github.com/amandaenathalia/JOGO-ALPHA/)
+- [Amanda e Nathalia](https://github.com/amandaenathalia/): [alpha](https://github.com/amandaenathalia/alpha/)
 - [Ana e Francine](https://github.com/anaefrancinox/): [jogo](https://github.com/anaefrancinox/jogo)
 - [Ayrton e Talita](https://github.com/ayrtonetalita/): [jogo_neve](https://github.com/ayrtonetalita/jogo_neve)
 - [Bárbara e Beatriz](https://github.com/beabagames/): [letters-to-johnson](https://github.com/beabagames/letters-to-johnson)
