@@ -4,7 +4,7 @@ Projeto de desenvolvimento de jogo Web com WebRTC para as disciplinas de Adminis
 
 ## Para ler
 
-Publicado no GitHub Pages: [https://boidacarapreta.github.io/integrado20212](https://boidacarapreta.github.io/integrado20212).
+Publicado no GitHub Pages: [https://ederson-torresini.github.io/integrado20212/cliente](https://ederson-torresini.github.io/integrado20212/cliente).
 
 
 ## Ferramentas para o desenvolvimento do projeto da disciplina
